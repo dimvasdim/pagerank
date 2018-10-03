@@ -9,7 +9,7 @@ Gauss-Seidel.c is another version of pagerank algorithm using the technique of G
 and it is based on the following paper "A PageRank Algorithm based on Asynchronous Gauss-Seidel Iterations,
 Daniel Silvestre, Joao Hespanha and Carlos Silvestre."
 
-The two papers can be found on the directory reports.
+The two papers can be found on the two pdf reports.
 
 The other two files Omp_page_rank.c and Omp_Gauss_Seidel.c are the parallel versions of the previous ones
 using OpenMP.
