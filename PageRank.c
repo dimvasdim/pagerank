@@ -6,7 +6,7 @@
 
 #define N 26518 //number of nodes
 #define d 0.85
-#define e 0.0001 //10^-8
+#define e 0.0001 //10^-4
 
 struct timeval startwtime, endwtime;
 double seq_time;
