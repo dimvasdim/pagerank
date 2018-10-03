@@ -13,3 +13,5 @@ The two papers can be found on the two pdf reports.
 
 The other two files Omp_page_rank.c and Omp_Gauss_Seidel.c are the parallel versions of the previous ones
 using OpenMP.
+
+26518nodes.txt contains all the links between the nodes of the network in the form from->to (starting node->ending node) 
